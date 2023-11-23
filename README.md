@@ -1,1 +1,1 @@
-# Responsive-calculator
+# Interactive-calculator
